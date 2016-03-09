@@ -1,0 +1,22 @@
+{
+  "name": "name-random",
+  "version": "1.0.0",
+  "description": "\"# name-random\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akorompai/name-random.git"
+  },
+  "author": "Attila Korompai <'attila.korompai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akorompai/name-random/issues"
+  },
+  "homepage": "https://github.com/akorompai/name-random#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
